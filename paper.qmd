@@ -4,13 +4,12 @@ subtitle: "Auschwitz concentration camp"
 author: 
   - First author
   - Another author
-thanks: "Link to the shiny app at : <https://ap775a-mt-savvyuni.shinyapps.io/Auschwitz_concentration_camp/>. Code and data are available at: LINK."
+thanks: "Link to the shiny app at : <https://ap775a-mt-savvyuni.shinyapps.io/Auschwitz_concentration_camp/>. Code and data are available at: <https://github.com/SavvyUni-MT/camp.git>."
 date: today
 date-format: long
 abstract: "First sentence. Second sentence. Third sentence. Fourth sentence."
 format: pdf
 number-sections: true
-bibliography: references.bib
 ---
 
 
